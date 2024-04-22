@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://gridxprime.github.io/aibek-everon-website",
   "scripts": {
     "dev": "vite",
     "predeploy": "pnpm run build",
